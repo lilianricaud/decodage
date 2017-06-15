@@ -1,3 +1,15 @@
+<!--
+
+---
+title: Méta-modèles
+description: Il s'agit d'un outil issu de la PNL (programmation neuro-linguistique). Je trouve qu'il constitue une grille de lecture parfois intéressante lors d'un recueil d'informations sur un projets par exemple.
+image_url: 
+licence: CC-BY-SA
+author: Sylvain Boyer
+---
+
+-->
+
 # Méta-modèles
 Il s'agit d'un outil issu de la PNL (programmation neuro-linguistique). Je trouve qu'il constitue une grille de lecture parfois intéressante lors d'un recueil d'informations sur un projets par exemple.
 
